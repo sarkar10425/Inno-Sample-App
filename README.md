@@ -32,6 +32,16 @@
 
 <img src="./Screenshots/Screenshot (806).png" width="900"/>
 
+## Save and Create the Setup
+
+* Click on file, then Save to save the file. Go to Menu, Project, then Compile to compile and create the setup file. This will create a complete installer. Run the Setup and your application will be installed correctly.
+
+## Modify the setup
+
+* You can add files / change the settings / customize the installer using the IDE as in the following screenshot:
+
 <img src="./Screenshots/Screenshot (809).png" width="900"/>
+
+* Below is the screenshot of the installer created by the Inno Setup Script
 
 <img src="./Screenshots/Screenshot (810).png" width="900"/>
