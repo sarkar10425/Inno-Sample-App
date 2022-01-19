@@ -1,0 +1,5 @@
+C:\InnoSampeApp\TestComponent\bin\Debug\TestComponent.dll
+C:\InnoSampeApp\TestComponent\bin\Debug\TestComponent.pdb
+C:\InnoSampeApp\TestComponent\obj\Debug\TestComponent.csprojResolveAssemblyReference.cache
+C:\InnoSampeApp\TestComponent\obj\Debug\TestComponent.dll
+C:\InnoSampeApp\TestComponent\obj\Debug\TestComponent.pdb

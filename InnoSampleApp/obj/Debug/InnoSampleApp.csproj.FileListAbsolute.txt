@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\InnoSampleApp\bin\Debug\InnoSampleApp.exe.config
+C:\InnoSampeApp\InnoSampleApp\bin\Debug\InnoSampleApp.exe.config
+C:\InnoSampeApp\InnoSampleApp\bin\Debug\InnoSampleApp.exe
+C:\InnoSampeApp\InnoSampleApp\bin\Debug\InnoSampleApp.pdb
+C:\InnoSampeApp\InnoSampleApp\obj\Debug\InnoSampleApp.csprojResolveAssemblyReference.cache
+C:\InnoSampeApp\InnoSampleApp\obj\Debug\InnoSampleApp.Form1.resources
+C:\InnoSampeApp\InnoSampleApp\obj\Debug\InnoSampleApp.Properties.Resources.resources
+C:\InnoSampeApp\InnoSampleApp\obj\Debug\InnoSampleApp.csproj.GenerateResource.Cache
+C:\InnoSampeApp\InnoSampleApp\obj\Debug\InnoSampleApp.exe
+C:\InnoSampeApp\InnoSampleApp\obj\Debug\InnoSampleApp.pdb
+C:\InnoSampeApp\InnoSampleApp\bin\Debug\TestComponent.dll
+C:\InnoSampeApp\InnoSampleApp\bin\Debug\TestComponent.pdb

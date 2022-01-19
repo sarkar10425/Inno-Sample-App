@@ -1,0 +1,11 @@
+C:\InnoSampeApp\InnoSampleApp\bin\Release\InnoSampleApp.exe.config
+C:\InnoSampeApp\InnoSampleApp\bin\Release\InnoSampleApp.exe
+C:\InnoSampeApp\InnoSampleApp\bin\Release\InnoSampleApp.pdb
+C:\InnoSampeApp\InnoSampleApp\bin\Release\TestComponent.dll
+C:\InnoSampeApp\InnoSampleApp\bin\Release\TestComponent.pdb
+C:\InnoSampeApp\InnoSampleApp\obj\Release\InnoSampleApp.csprojResolveAssemblyReference.cache
+C:\InnoSampeApp\InnoSampleApp\obj\Release\InnoSampleApp.Form1.resources
+C:\InnoSampeApp\InnoSampleApp\obj\Release\InnoSampleApp.Properties.Resources.resources
+C:\InnoSampeApp\InnoSampleApp\obj\Release\InnoSampleApp.csproj.GenerateResource.Cache
+C:\InnoSampeApp\InnoSampleApp\obj\Release\InnoSampleApp.exe
+C:\InnoSampeApp\InnoSampleApp\obj\Release\InnoSampleApp.pdb

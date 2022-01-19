@@ -1,0 +1,4 @@
+C:\InnoSampeApp\TestComponent\bin\Release\TestComponent.dll
+C:\InnoSampeApp\TestComponent\bin\Release\TestComponent.pdb
+C:\InnoSampeApp\TestComponent\obj\Release\TestComponent.dll
+C:\InnoSampeApp\TestComponent\obj\Release\TestComponent.pdb
