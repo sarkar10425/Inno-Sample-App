@@ -20,8 +20,6 @@
 <img src="./Screenshots/Screenshot (801).png" width="900"/>
 
 
-<img src="./Screenshots/Screenshot (802).png" width="900"/>
-
 * Under Add Files select all the assemblies referenced by the application like assembly files (dll) from the Project folder, Bin, then Release folder. Third party assemblies if used must be included. No need to include dot net assemblies. I have included TestComponent.dll and InnoSampleApp.exe.config from my sample application. Click on Next to go to the next screen.
 
 <img src="./Screenshots/Screenshot (803).png" width="900"/>
