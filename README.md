@@ -42,6 +42,6 @@
 
 <img src="./Screenshots/Screenshot (809).png" width="900"/>
 
-* Below is the screenshot of the installer created by the Inno Setup Script
+* Below is the screenshot of the installer created by the Inno Setup Script. We can also see the Inno Script saved with .iss extension.
 
 <img src="./Screenshots/Screenshot (810).png" width="900"/>
