@@ -28,9 +28,7 @@
 
 <img src="./Screenshots/Screenshot (804).png" width="900"/>
 
-* Register Page - This page allows the users to register themselves as a user
-
-<img src="./Screenshots/Screenshot (805).png" width="900"/>
+* The Next screen is language selection. Select the languages supported. Click on next to bring up the Compiler Settings. Select the output folder for the setup file. Click on Next>
 
 <img src="./Screenshots/Screenshot (806).png" width="900"/>
 
